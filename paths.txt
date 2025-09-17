@@ -1,0 +1,45 @@
+To access the advance search button from this website
+1. html
+2. body#page-top
+3. div.container
+4. div#frstStep
+5. div.col-sm-8.well
+6. form#casesearch.form
+7. div.row
+8. div..col-xs-12.col-md-12.pull-right.form-group
+9. a#lnkAdvncSrch
+
+To access the date search field getting in pop up window when clicked on advance search
+1. html
+2. body#page-top.model-open
+3. div.container
+4. div#myModal.modal.fade.in
+5. div.modal-dialog
+6. div.modal-content
+7. div.modal-body
+8. div#dv_advncSrch
+9. div.row
+10.div.col-xs-6.col-md-6.col-lg-6.form-group
+11.div.input-group.date
+12.input#txtDt.form-control.mousetrap
+
+Now the path for search button in that field to click on it to open another page for data
+1. html
+2. body#page-top.model-open
+3. div.container
+4. div#myModal.modal.fade.in
+5. div.modal-dialog
+6. div.modal-content
+7. div.modal-footer
+8. center
+9. button#btnAdvnSrch.ButtonClass
+
+Now the path for table in next web page to extract data from it
+1. html
+2. body#page-top
+3. div.container
+4. div#frstStep
+5. div#grdCaseInfo
+6. div.table.table-responsive
+7. div#tblCases_wrapper.dataTables_wrapper.no-footer
+8. table#tblCases.table.table-bordered.display.no-footer.dataTable

@@ -1,0 +1,110 @@
+2025-09-16 21:09:25,487 - INFO - Starting IHC Cases Scraper...
+2025-09-16 21:09:25,488 - INFO - Search Date: 12/11/2020
+2025-09-16 21:09:25,488 - INFO - Output File: ihc_cases.json
+2025-09-16 21:09:27,095 - INFO - Opening: https://mis.ihc.gov.pk/frmCseSrch
+2025-09-16 21:09:48,785 - INFO - Looking for Advanced Search button...
+2025-09-16 21:09:48,863 - INFO - Found Advanced Search button, clicking...
+2025-09-16 21:09:52,047 - INFO - Looking for date input field...
+2025-09-16 21:09:52,261 - INFO - Date '12/11/2020' entered successfully
+2025-09-16 21:09:54,269 - INFO - Looking for search button...
+2025-09-16 21:09:54,337 - INFO - Found search button, clicking...
+2025-09-16 21:09:54,486 - INFO - Search button clicked, waiting for results...
+2025-09-16 21:10:04,498 - INFO - Looking for results table...
+2025-09-16 21:10:04,556 - INFO - Found 0 case records
+2025-09-16 21:10:04,560 - INFO - Successfully saved 0 cases to ihc_cases.json
+2025-09-16 21:10:04,561 - INFO - Closing browser...
+2025-09-16 21:10:06,945 - ERROR - No cases were extracted. Check the logs for errors.
+2025-09-16 21:10:44,708 - INFO - Starting IHC Cases Scraper...
+2025-09-16 21:10:44,708 - INFO - Search Date: 12/11/2020
+2025-09-16 21:10:44,709 - INFO - Output File: ihc_cases.json
+2025-09-16 21:10:46,269 - INFO - Opening: https://mis.ihc.gov.pk/frmCseSrch
+2025-09-16 21:11:01,391 - INFO - Looking for Advanced Search button...
+2025-09-16 21:11:01,456 - INFO - Found Advanced Search button, clicking...
+2025-09-16 21:11:04,601 - INFO - Looking for date input field...
+2025-09-16 21:11:04,850 - INFO - Date '12/11/2020' entered successfully
+2025-09-16 21:11:06,851 - INFO - Looking for search button...
+2025-09-16 21:11:06,909 - INFO - Found search button, clicking...
+2025-09-16 21:11:07,051 - INFO - Search button clicked, waiting for results...
+2025-09-16 21:11:17,065 - INFO - Looking for results table...
+2025-09-16 21:11:17,118 - INFO - Found 0 case records
+2025-09-16 21:11:17,121 - INFO - Successfully saved 0 cases to ihc_cases.json
+2025-09-16 21:11:17,122 - INFO - Closing browser...
+2025-09-16 21:11:19,506 - ERROR - No cases were extracted. Check the logs for errors.
+2025-09-16 21:15:01,649 - INFO - Starting IHC Cases Scraper...
+2025-09-16 21:15:01,650 - INFO - Search Date: 12/11/2020
+2025-09-16 21:15:01,650 - INFO - Output File: ihc_cases.json
+2025-09-16 21:15:03,209 - INFO - Opening: https://mis.ihc.gov.pk/frmCseSrch
+2025-09-16 21:15:13,567 - INFO - Looking for Advanced Search button...
+2025-09-16 21:15:13,637 - INFO - Found Advanced Search button, clicking...
+2025-09-16 21:15:16,776 - INFO - Looking for date input field...
+2025-09-16 21:15:16,949 - INFO - Date '12/11/2020' entered successfully
+2025-09-16 21:15:18,958 - INFO - Looking for search button...
+2025-09-16 21:15:19,020 - INFO - Found search button, clicking...
+2025-09-16 21:15:19,189 - INFO - Search button clicked, waiting for results...
+2025-09-16 21:15:19,189 - INFO - Waiting for search results to load...
+2025-09-16 21:15:19,217 - INFO - Results table found, waiting for data to populate...
+2025-09-16 21:15:19,257 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:21,319 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:23,353 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:25,404 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:27,454 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:29,493 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:31,539 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:33,583 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:35,652 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:37,696 - INFO - Still loading... found 0 data rows
+2025-09-16 21:15:39,879 - INFO - Data detected! Found 50 rows
+2025-09-16 21:15:39,929 - INFO - Found 50 case records
+2025-09-16 21:15:39,929 - INFO - Processing case 1 of 50
+2025-09-16 21:15:40,621 - INFO - Processing case 2 of 50
+2025-09-16 21:15:41,315 - INFO - Processing case 3 of 50
+2025-09-16 21:15:41,992 - INFO - Processing case 4 of 50
+2025-09-16 21:15:42,701 - INFO - Processing case 5 of 50
+2025-09-16 21:15:43,398 - INFO - Processing case 6 of 50
+2025-09-16 21:15:44,045 - INFO - Processing case 7 of 50
+2025-09-16 21:15:44,738 - INFO - Processing case 8 of 50
+2025-09-16 21:15:45,458 - INFO - Processing case 9 of 50
+2025-09-16 21:15:46,151 - INFO - Processing case 10 of 50
+2025-09-16 21:15:46,866 - INFO - Processing case 11 of 50
+2025-09-16 21:15:47,584 - INFO - Processing case 12 of 50
+2025-09-16 21:15:48,329 - INFO - Processing case 13 of 50
+2025-09-16 21:15:48,991 - INFO - Processing case 14 of 50
+2025-09-16 21:15:49,620 - INFO - Processing case 15 of 50
+2025-09-16 21:15:50,280 - INFO - Processing case 16 of 50
+2025-09-16 21:15:50,967 - INFO - Processing case 17 of 50
+2025-09-16 21:15:51,676 - INFO - Processing case 18 of 50
+2025-09-16 21:15:52,368 - INFO - Processing case 19 of 50
+2025-09-16 21:15:53,059 - INFO - Processing case 20 of 50
+2025-09-16 21:15:53,750 - INFO - Processing case 21 of 50
+2025-09-16 21:15:54,411 - INFO - Processing case 22 of 50
+2025-09-16 21:15:55,103 - INFO - Processing case 23 of 50
+2025-09-16 21:15:55,792 - INFO - Processing case 24 of 50
+2025-09-16 21:15:56,485 - INFO - Processing case 25 of 50
+2025-09-16 21:15:57,169 - INFO - Processing case 26 of 50
+2025-09-16 21:15:57,864 - INFO - Processing case 27 of 50
+2025-09-16 21:15:58,556 - INFO - Processing case 28 of 50
+2025-09-16 21:15:59,248 - INFO - Processing case 29 of 50
+2025-09-16 21:15:59,892 - INFO - Processing case 30 of 50
+2025-09-16 21:16:00,567 - INFO - Processing case 31 of 50
+2025-09-16 21:16:01,258 - INFO - Processing case 32 of 50
+2025-09-16 21:16:01,960 - INFO - Processing case 33 of 50
+2025-09-16 21:16:02,660 - INFO - Processing case 34 of 50
+2025-09-16 21:16:03,350 - INFO - Processing case 35 of 50
+2025-09-16 21:16:04,041 - INFO - Processing case 36 of 50
+2025-09-16 21:16:04,750 - INFO - Processing case 37 of 50
+2025-09-16 21:16:05,444 - INFO - Processing case 38 of 50
+2025-09-16 21:16:06,137 - INFO - Processing case 39 of 50
+2025-09-16 21:16:06,783 - INFO - Processing case 40 of 50
+2025-09-16 21:16:07,512 - INFO - Processing case 41 of 50
+2025-09-16 21:16:08,179 - INFO - Processing case 42 of 50
+2025-09-16 21:16:08,840 - INFO - Processing case 43 of 50
+2025-09-16 21:16:09,519 - INFO - Processing case 44 of 50
+2025-09-16 21:16:10,193 - INFO - Processing case 45 of 50
+2025-09-16 21:16:10,908 - INFO - Processing case 46 of 50
+2025-09-16 21:16:11,615 - INFO - Processing case 47 of 50
+2025-09-16 21:16:12,334 - INFO - Processing case 48 of 50
+2025-09-16 21:16:13,028 - INFO - Processing case 49 of 50
+2025-09-16 21:16:13,721 - INFO - Processing case 50 of 50
+2025-09-16 21:16:14,449 - INFO - Successfully saved 50 cases to ihc_cases.json
+2025-09-16 21:16:14,450 - INFO - Closing browser...
+2025-09-16 21:16:16,833 - INFO - Scraping completed successfully! Extracted 50 cases.
