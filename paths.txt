@@ -43,3 +43,13 @@ Now the path for table in next web page to extract data from it
 6. div.table.table-responsive
 7. div#tblCases_wrapper.dataTables_wrapper.no-footer
 8. table#tblCases.table.table-bordered.display.no-footer.dataTable
+
+Path for next button below table to go to next page of the table
+1. html
+2. body#page-top
+3. div.container
+4. div#frstStep
+5. div#grdCaseInfo
+6. div.table.table-responsive
+7. div#tblCases_wrapper.dataTables_wrapper.no-footer
+8. div#tblCases_paginate.dataTables_paginate.paging_simple_numbers
