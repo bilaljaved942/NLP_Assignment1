@@ -1,282 +1,171 @@
-2025-09-17 19:40:42,143 - INFO - Starting scraper for 2 dates
-2025-09-17 19:40:42,144 - INFO - Installing/setting up ChromeDriver...
-2025-09-17 19:40:42,144 - INFO - ====== WebDriver manager ======
-2025-09-17 19:40:43,758 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 19:40:44,187 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 19:40:44,427 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
-2025-09-17 19:40:45,772 - INFO - WebDriver initialized successfully
-2025-09-17 19:40:45,773 - INFO - Scraping cases for 16/09/2025
-2025-09-17 19:40:56,566 - INFO - Processing page 1 for 16/09/2025
-2025-09-17 19:41:04,335 - ERROR - Error checking/clicking next page: Message: element click intercepted: Element <a class="paginate_button next" aria-controls="tblCases" data-dt-idx="3" tabindex="0" id="tblCases_next">...</a> is not clickable at point (951, 17). Other element would receive the click: <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">...</button>
-  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
-Stacktrace:
-	GetHandleVerifier [0x0x86d2a3+66419]
-	GetHandleVerifier [0x0x86d2e4+66484]
-	(No symbol) [0x0x644bd3]
-	(No symbol) [0x0x694e40]
-	(No symbol) [0x0x6931a3]
-	(No symbol) [0x0x690c57]
-	(No symbol) [0x0x68fedd]
-	(No symbol) [0x0x6843c5]
-	(No symbol) [0x0x6b101c]
-	(No symbol) [0x0x683e24]
-	(No symbol) [0x0x6b11d4]
-	(No symbol) [0x0x6d28a1]
-	(No symbol) [0x0x6b0e16]
-	(No symbol) [0x0x6825ce]
-	(No symbol) [0x0x6834a4]
-	GetHandleVerifier [0x0xab5ee3+2461619]
-	GetHandleVerifier [0x0xab0f66+2441270]
-	GetHandleVerifier [0x0x896242+234258]
-	GetHandleVerifier [0x0x886208+168664]
-	GetHandleVerifier [0x0x88d1ad+197245]
-	GetHandleVerifier [0x0x8755f8+100040]
-	GetHandleVerifier [0x0x875792+100450]
-	GetHandleVerifier [0x0x85f74a+10266]
-	BaseThreadInitThunk [0x0x75955d49+25]
-	RtlInitializeExceptionChain [0x0x7743d6db+107]
-	RtlGetAppContainerNamedObjectPath [0x0x7743d661+561]
-
-2025-09-17 19:41:04,336 - INFO - Total cases for 16/09/2025: 0
-2025-09-17 19:41:04,337 - INFO - Scraping cases for 17/09/2025
-2025-09-17 19:41:12,131 - INFO - Processing page 1 for 17/09/2025
-2025-09-17 19:41:22,789 - INFO - Total cases for 17/09/2025: 33
-2025-09-17 19:41:22,809 - INFO - Saved 33 cases to output\ihc_cases_16-09-2025_20250917_194122.json
-2025-09-17 19:41:25,200 - INFO - WebDriver closed
-2025-09-17 19:43:02,427 - INFO - Starting scraper for 2 dates
-2025-09-17 19:43:02,428 - INFO - Installing/setting up ChromeDriver...
-2025-09-17 19:43:02,428 - INFO - ====== WebDriver manager ======
-2025-09-17 19:43:04,109 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 19:43:04,300 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 19:43:04,449 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
-2025-09-17 19:43:05,758 - INFO - WebDriver initialized successfully
-2025-09-17 19:43:05,758 - INFO - Scraping cases for 16/09/2025
-2025-09-17 19:43:14,035 - INFO - Processing page 1 for 16/09/2025
-2025-09-17 19:43:25,540 - ERROR - Error checking/clicking next page: Message: element click intercepted: Element <a class="paginate_button next" aria-controls="tblCases" data-dt-idx="3" tabindex="0" id="tblCases_next">...</a> is not clickable at point (951, 17). Other element would receive the click: <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">...</button>
-  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
-Stacktrace:
-	GetHandleVerifier [0x0x86d2a3+66419]
-	GetHandleVerifier [0x0x86d2e4+66484]
-	(No symbol) [0x0x644bd3]
-	(No symbol) [0x0x694e40]
-	(No symbol) [0x0x6931a3]
-	(No symbol) [0x0x690c57]
-	(No symbol) [0x0x68fedd]
-	(No symbol) [0x0x6843c5]
-	(No symbol) [0x0x6b101c]
-	(No symbol) [0x0x683e24]
-	(No symbol) [0x0x6b11d4]
-	(No symbol) [0x0x6d28a1]
-	(No symbol) [0x0x6b0e16]
-	(No symbol) [0x0x6825ce]
-	(No symbol) [0x0x6834a4]
-	GetHandleVerifier [0x0xab5ee3+2461619]
-	GetHandleVerifier [0x0xab0f66+2441270]
-	GetHandleVerifier [0x0x896242+234258]
-	GetHandleVerifier [0x0x886208+168664]
-	GetHandleVerifier [0x0x88d1ad+197245]
-	GetHandleVerifier [0x0x8755f8+100040]
-	GetHandleVerifier [0x0x875792+100450]
-	GetHandleVerifier [0x0x85f74a+10266]
-	BaseThreadInitThunk [0x0x75955d49+25]
-	RtlInitializeExceptionChain [0x0x7743d6db+107]
-	RtlGetAppContainerNamedObjectPath [0x0x7743d661+561]
-
-2025-09-17 19:43:25,541 - INFO - Total cases for 16/09/2025: 49
-2025-09-17 19:43:25,542 - INFO - Scraping cases for 17/09/2025
-2025-09-17 19:43:33,623 - INFO - Processing page 1 for 17/09/2025
-2025-09-17 19:43:42,930 - INFO - Total cases for 17/09/2025: 33
-2025-09-17 19:43:42,971 - INFO - Saved 82 cases to output\ihc_cases_16-09-2025_20250917_194342.json
-2025-09-17 19:43:45,338 - INFO - WebDriver closed
-2025-09-17 20:05:37,645 - INFO - Starting scraper for 2 dates
-2025-09-17 20:05:37,645 - INFO - Installing/setting up ChromeDriver...
-2025-09-17 20:05:37,646 - INFO - ====== WebDriver manager ======
-2025-09-17 20:05:39,405 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:05:39,636 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:05:39,802 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
-2025-09-17 20:05:41,067 - INFO - WebDriver initialized successfully
-2025-09-17 20:05:41,068 - INFO - Scraping cases for 16/09/2025
-2025-09-17 20:05:49,540 - INFO - Processing page 1 for 16/09/2025
-2025-09-17 20:05:56,072 - ERROR - Error checking/clicking next page: Message: element click intercepted: Element <a class="paginate_button next" aria-controls="tblCases" data-dt-idx="3" tabindex="0" id="tblCases_next">...</a> is not clickable at point (951, 17). Other element would receive the click: <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">...</button>
-  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
-Stacktrace:
-	GetHandleVerifier [0x0x86d2a3+66419]
-	GetHandleVerifier [0x0x86d2e4+66484]
-	(No symbol) [0x0x644bd3]
-	(No symbol) [0x0x694e40]
-	(No symbol) [0x0x6931a3]
-	(No symbol) [0x0x690c57]
-	(No symbol) [0x0x68fedd]
-	(No symbol) [0x0x6843c5]
-	(No symbol) [0x0x6b101c]
-	(No symbol) [0x0x683e24]
-	(No symbol) [0x0x6b11d4]
-	(No symbol) [0x0x6d28a1]
-	(No symbol) [0x0x6b0e16]
-	(No symbol) [0x0x6825ce]
-	(No symbol) [0x0x6834a4]
-	GetHandleVerifier [0x0xab5ee3+2461619]
-	GetHandleVerifier [0x0xab0f66+2441270]
-	GetHandleVerifier [0x0x896242+234258]
-	GetHandleVerifier [0x0x886208+168664]
-	GetHandleVerifier [0x0x88d1ad+197245]
-	GetHandleVerifier [0x0x8755f8+100040]
-	GetHandleVerifier [0x0x875792+100450]
-	GetHandleVerifier [0x0x85f74a+10266]
-	BaseThreadInitThunk [0x0x75955d49+25]
-	RtlInitializeExceptionChain [0x0x7743d6db+107]
-	RtlGetAppContainerNamedObjectPath [0x0x7743d661+561]
-
-2025-09-17 20:05:56,073 - INFO - Total cases for 16/09/2025: 0
-2025-09-17 20:05:56,075 - INFO - Scraping cases for 17/09/2025
-2025-09-17 20:06:04,342 - INFO - Processing page 1 for 17/09/2025
-2025-09-17 20:06:05,023 - INFO - Total cases for 17/09/2025: 0
-2025-09-17 20:06:07,398 - INFO - WebDriver closed
-2025-09-17 20:09:28,842 - INFO - Starting scraper for 2 dates
-2025-09-17 20:09:28,843 - INFO - Installing/setting up ChromeDriver...
-2025-09-17 20:09:28,844 - INFO - ====== WebDriver manager ======
-2025-09-17 20:09:30,452 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:09:30,617 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:09:30,775 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
-2025-09-17 20:09:32,079 - INFO - WebDriver initialized successfully
-2025-09-17 20:09:32,080 - INFO - Scraping cases for 16/09/2025
-2025-09-17 20:09:40,943 - INFO - Processing page 1 for 16/09/2025
-2025-09-17 20:09:46,100 - INFO - Total cases for 16/09/2025: 0
-2025-09-17 20:09:46,102 - INFO - Scraping cases for 17/09/2025
-2025-09-17 20:09:54,495 - INFO - Processing page 1 for 17/09/2025
-2025-09-17 20:09:56,555 - INFO - Total cases for 17/09/2025: 0
-2025-09-17 20:09:58,953 - INFO - WebDriver closed
-2025-09-17 20:59:19,448 - INFO - Starting scraper for 2 dates
-2025-09-17 20:59:19,448 - INFO - Installing/setting up ChromeDriver...
-2025-09-17 20:59:19,448 - INFO - ====== WebDriver manager ======
-2025-09-17 20:59:20,370 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:59:21,202 - INFO - Get LATEST chromedriver version for google-chrome
-2025-09-17 20:59:21,403 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
-2025-09-17 20:59:22,568 - INFO - WebDriver initialized successfully
-2025-09-17 20:59:22,568 - INFO - Scraping cases for 16-09-2025
-2025-09-17 20:59:44,249 - INFO - Results container loaded
-2025-09-17 20:59:44,249 - INFO - Processing page 1 for 16-09-2025
-2025-09-17 20:59:44,322 - INFO - Found 50 data rows on page 1
-2025-09-17 20:59:44,399 - INFO - Extracted case: I.C.A. 371/2025 Writ (DB)
-2025-09-17 20:59:44,472 - INFO - Extracted case: I.C.A. 372/2025 Writ (DB)
-2025-09-17 20:59:44,544 - INFO - Extracted case: Inst No. 17199/2025 Objection (SB)
-2025-09-17 20:59:44,608 - INFO - Extracted case: Inst No. 17197/2025 Objection (SB)
-2025-09-17 20:59:44,670 - INFO - Extracted case: Inst No. 17195/2025 Objection (SB)
-2025-09-17 20:59:44,740 - INFO - Extracted case: Inst No. 17194/2025 (SB)
-2025-09-17 20:59:44,805 - INFO - Extracted case: W.P. 3669/2025 Misc. Other (SB)
-2025-09-17 20:59:44,878 - INFO - Extracted case: Inst No. 17190/2025 Objection (SB)
-2025-09-17 20:59:44,947 - INFO - Extracted case: Inst No. 17187/2025 Objection (SB)
-2025-09-17 20:59:45,015 - INFO - Extracted case: Inst No. 17186/2025 Objection (SB)
-2025-09-17 20:59:45,077 - INFO - Extracted case: W.P. 3673/2025 Police/FIA Matter Q-FIR (SB)
-2025-09-17 20:59:45,138 - INFO - Extracted case: Crl. Misc. 1596/2025 Bail After Arrest (DB)
-2025-09-17 20:59:45,209 - INFO - Extracted case: W.P. 3682/2025 Misc. Other (SB)
-2025-09-17 20:59:45,272 - INFO - Extracted case: Objection Case 22268/2025 Writ (SB)
-2025-09-17 20:59:45,339 - INFO - Extracted case: Inst No. 17178/2025 (SB)
-2025-09-17 20:59:45,409 - INFO - Extracted case: Inst No. 17177/2025 Objection (SB)
-2025-09-17 20:59:45,476 - INFO - Extracted case: Inst No. 17176/2025 Objection (SB)
-2025-09-17 20:59:45,549 - INFO - Extracted case: Inst No. 17175/2025 Objection (SB)
-2025-09-17 20:59:45,612 - INFO - Extracted case: W.P. 3675/2025 Service Termination (SB)
-2025-09-17 20:59:45,678 - INFO - Extracted case: Inst No. 17173/2025 (SB)
-2025-09-17 20:59:45,789 - INFO - Extracted case: Crl. Misc. 1597/2025 Bail Before Arrest (SB)
-2025-09-17 20:59:45,867 - INFO - Extracted case: Inst No. 17165/2025 (SB)
-2025-09-17 20:59:45,941 - INFO - Extracted case: Crl. Misc. 1593/2025 Bail Transitory (SB)
-2025-09-17 20:59:46,011 - INFO - Extracted case: Inst No. 17162/2025 Objection (SB)
-2025-09-17 20:59:46,078 - INFO - Extracted case: W.P. 3671/2025 Allotment Allot. of Plot (SB)
-2025-09-17 20:59:46,145 - INFO - Extracted case: Inst No. 17158/2025 Objection (SB)
-2025-09-17 20:59:46,214 - INFO - Extracted case: Crl. Appeal 286/2025 Against Convct. PPC Above 7 years (DB)
-2025-09-17 20:59:46,282 - INFO - Extracted case: Crl. Appeal 287/2025 Against Convct. PPC Above 7 years (DB)
-2025-09-17 20:59:46,350 - INFO - Extracted case: W.P. 3681/2025 Misc. Other (SB)
-2025-09-17 20:59:46,419 - INFO - Extracted case: Crl. Org. 240/2025 Writ (SB)
-2025-09-17 20:59:46,488 - INFO - Extracted case: Inst No. 17153/2025 (SB)
-2025-09-17 20:59:46,571 - INFO - Extracted case: W.P. 3665/2025 Police/FIA Matter Q-Proceeding (SB)
-2025-09-17 20:59:46,649 - INFO - Extracted case: Crl. Misc. 1591/2025 Bail Before Arrest (SB)
-2025-09-17 20:59:46,718 - INFO - Extracted case: W.P. 3663/2025 Misc. Other (SB)
-2025-09-17 20:59:46,792 - INFO - Extracted case: Objection Case 22266/2025 Criminal (SB)
-2025-09-17 20:59:46,860 - INFO - Extracted case: W.P. 3664/2025 Misc. Other (SB)
-2025-09-17 20:59:46,928 - INFO - Extracted case: W.P. 3652/2025 Service Regularization (SB)
-2025-09-17 20:59:46,999 - INFO - Extracted case: Saeed Ahmed- VS -Civilian Employees Cooperative Housing Society through Administrator etc.
-2025-09-17 20:59:47,064 - INFO - Extracted case: Crl. Misc. 1584/2025 Bail Transitory (SB)
-2025-09-17 20:59:47,127 - INFO - Extracted case: Inst No. 17126/2025 Objection (SB)
-2025-09-17 20:59:47,195 - INFO - Extracted case: Inst No. 17125/2025 Objection (SB)
-2025-09-17 20:59:47,266 - INFO - Extracted case: W.P. 3655/2025 Tax & Banking Tax (DB)
-2025-09-17 20:59:47,334 - INFO - Extracted case: W.P. 3656/2025 Misc. Other (SB)
-2025-09-17 20:59:47,399 - INFO - Extracted case: Objection Case 22263/2025 Writ (DB)
-2025-09-17 20:59:47,465 - INFO - Extracted case: Crl. Misc. 1589/2025 Bail After Arrest (SB)
-2025-09-17 20:59:47,530 - INFO - Extracted case: Crl. Misc. 1583/2025 Bail Transitory (SB)
-2025-09-17 20:59:47,599 - INFO - Extracted case: Objection Case 22262/2025 Civil (SB)
-2025-09-17 20:59:47,664 - INFO - Extracted case: Inst No. 17110/2025 Objection (SB)
-2025-09-17 20:59:47,731 - INFO - Extracted case: Crl. Misc. 1586/2025 Bail After Arrest (SB)
-2025-09-17 20:59:47,793 - INFO - Extracted case: Crl. Misc. 1587/2025 Bail After Arrest (SB)
-2025-09-17 20:59:49,427 - ERROR - Error checking/clicking next page: Message: element click intercepted: Element <a class="paginate_button next" aria-controls="tblCases" data-dt-idx="3" tabindex="0" id="tblCases_next">...</a> is not clickable at point (951, 17). Other element would receive the click: <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">...</button>
-  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
-Stacktrace:
-	GetHandleVerifier [0x0x86d2a3+66419]
-	GetHandleVerifier [0x0x86d2e4+66484]
-	(No symbol) [0x0x644bd3]
-	(No symbol) [0x0x694e40]
-	(No symbol) [0x0x6931a3]
-	(No symbol) [0x0x690c57]
-	(No symbol) [0x0x68fedd]
-	(No symbol) [0x0x6843c5]
-	(No symbol) [0x0x6b101c]
-	(No symbol) [0x0x683e24]
-	(No symbol) [0x0x6b11d4]
-	(No symbol) [0x0x6d28a1]
-	(No symbol) [0x0x6b0e16]
-	(No symbol) [0x0x6825ce]
-	(No symbol) [0x0x6834a4]
-	GetHandleVerifier [0x0xab5ee3+2461619]
-	GetHandleVerifier [0x0xab0f66+2441270]
-	GetHandleVerifier [0x0x896242+234258]
-	GetHandleVerifier [0x0x886208+168664]
-	GetHandleVerifier [0x0x88d1ad+197245]
-	GetHandleVerifier [0x0x8755f8+100040]
-	GetHandleVerifier [0x0x875792+100450]
-	GetHandleVerifier [0x0x85f74a+10266]
-	BaseThreadInitThunk [0x0x75955d49+25]
-	RtlInitializeExceptionChain [0x0x7743d6db+107]
-	RtlGetAppContainerNamedObjectPath [0x0x7743d661+561]
-
-2025-09-17 20:59:49,428 - INFO - Total cases for 16-09-2025: 50
-2025-09-17 20:59:49,429 - INFO - Scraping cases for 17-09-2025
-2025-09-17 21:00:10,685 - INFO - Results container loaded
-2025-09-17 21:00:10,685 - INFO - Processing page 1 for 17-09-2025
-2025-09-17 21:00:10,719 - INFO - Found 34 data rows on page 1
-2025-09-17 21:00:10,787 - INFO - Extracted case: Inst No. 17298/2025 (SB)
-2025-09-17 21:00:10,851 - INFO - Extracted case: Inst No. 17296/2025 (SB)
-2025-09-17 21:00:10,912 - INFO - Extracted case: Inst No. 17294/2025 (SB)
-2025-09-17 21:00:10,975 - INFO - Extracted case: Inst No. 17287/2025 (SB)
-2025-09-17 21:00:11,037 - INFO - Extracted case: Inst No. 17275/2025 (SB)
-2025-09-17 21:00:11,104 - INFO - Extracted case: Inst No. 17274/2025 (SB)
-2025-09-17 21:00:11,171 - INFO - Extracted case: Inst No. 17272/2025 (SB)
-2025-09-17 21:00:11,234 - INFO - Extracted case: Inst No. 17268/2025 (SB)
-2025-09-17 21:00:11,297 - INFO - Extracted case: Inst No. 17267/2025 (SB)
-2025-09-17 21:00:11,361 - INFO - Extracted case: Inst No. 17260/2025 (SB)
-2025-09-17 21:00:11,422 - INFO - Extracted case: Inst No. 17259/2025 (SB)
-2025-09-17 21:00:11,484 - INFO - Extracted case: Inst No. 17258/2025 (SB)
-2025-09-17 21:00:11,545 - INFO - Extracted case: Inst No. 17256/2025 (SB)
-2025-09-17 21:00:11,610 - INFO - Extracted case: Crl. Misc. 1598/2025 Bail After Arrest (SB)
-2025-09-17 21:00:11,673 - INFO - Extracted case: Inst No. 17251/2025 (SB)
-2025-09-17 21:00:11,736 - INFO - Extracted case: Inst No. 17250/2025 (SB)
-2025-09-17 21:00:11,797 - INFO - Extracted case: Inst No. 17246/2025 (SB)
-2025-09-17 21:00:11,863 - INFO - Extracted case: I.C.A. 373/2025 Writ (DB)
-2025-09-17 21:00:11,926 - INFO - Extracted case: W.P. 3679/2025 Misc. Other (SB)
-2025-09-17 21:00:11,989 - INFO - Extracted case: Crl. Misc. 1599/2025 Bail After Arrest (DB)
-2025-09-17 21:00:12,053 - INFO - Extracted case: Crl. Misc. 1600/2025 Bail After Arrest (DB)
-2025-09-17 21:00:12,119 - INFO - Extracted case: Crl. Misc. 1601/2025 Bail After Arrest (DB)
-2025-09-17 21:00:12,184 - INFO - Extracted case: W.P. 3683/2025 Service Salary (SB)
-2025-09-17 21:00:12,248 - INFO - Extracted case: Inst No. 17230/2025 (SB)
-2025-09-17 21:00:12,316 - INFO - Extracted case: W.P. 3677/2025 Misc. Other (SB)
-2025-09-17 21:00:12,381 - INFO - Extracted case: CR 264/2025 Against Interim Order (SB)
-2025-09-17 21:00:12,445 - INFO - Extracted case: Inst No. 17224/2025 (SB)
-2025-09-17 21:00:12,506 - INFO - Extracted case: W.P. 3686/2025 Misc. Other (SB)
-2025-09-17 21:00:12,568 - INFO - Extracted case: Inst No. 17215/2025 (SB)
-2025-09-17 21:00:12,629 - INFO - Extracted case: Inst No. 17213/2025 (SB)
-2025-09-17 21:00:12,693 - INFO - Extracted case: Inst No. 17210/2025 (SB)
-2025-09-17 21:00:12,758 - INFO - Extracted case: Inst No. 17209/2025 (SB)
-2025-09-17 21:00:12,818 - INFO - Extracted case: Inst No. 17207/2025 Objection (SB)
-2025-09-17 21:00:12,879 - INFO - Extracted case: Inst No. 17206/2025 (SB)
-2025-09-17 21:00:12,899 - INFO - Next button disabled - end of pages
-2025-09-17 21:00:12,899 - INFO - Total cases for 17-09-2025: 34
-2025-09-17 21:00:12,910 - INFO - Saved 84 cases to output\ihc_cases_16-09-2025_20250917_210012.json
-2025-09-17 21:00:15,086 - INFO - WebDriver closed
+2025-09-18 11:34:54,504 - INFO - Starting scraper for 261 dates
+2025-09-18 11:34:54,505 - INFO - Installing/setting up ChromeDriver...
+2025-09-18 11:34:54,505 - INFO - ====== WebDriver manager ======
+2025-09-18 11:34:56,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 11:34:56,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 11:34:56,747 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-18 11:35:00,320 - INFO - WebDriver initialized successfully
+2025-09-18 11:35:00,321 - INFO - Scraping cases for 01-01-2025
+2025-09-18 11:35:23,327 - INFO - Scraping cases for 02-01-2025
+2025-09-18 11:35:46,816 - INFO - Scraping cases for 03-01-2025
+2025-09-18 11:36:03,772 - INFO - Scraping cases for 04-01-2025
+2025-09-18 11:36:25,267 - INFO - Scraping cases for 05-01-2025
+2025-09-18 11:36:40,858 - INFO - Scraping cases for 06-01-2025
+2025-09-18 11:37:01,344 - INFO - Scraping cases for 07-01-2025
+2025-09-18 11:37:24,899 - INFO - Scraping cases for 08-01-2025
+2025-09-18 11:37:47,119 - INFO - Scraping cases for 09-01-2025
+2025-09-18 11:38:05,335 - INFO - Scraping cases for 10-01-2025
+2025-09-18 11:38:27,300 - INFO - Scraping cases for 11-01-2025
+2025-09-18 11:38:55,559 - INFO - Scraping cases for 12-01-2025
+2025-09-18 11:39:09,337 - INFO - Scraping cases for 13-01-2025
+2025-09-18 11:39:43,053 - INFO - Scraping cases for 14-01-2025
+2025-09-18 11:40:12,877 - INFO - Scraping cases for 15-01-2025
+2025-09-18 11:40:38,812 - INFO - Scraping cases for 16-01-2025
+2025-09-18 11:41:09,586 - INFO - Scraping cases for 17-01-2025
+2025-09-18 11:41:29,152 - INFO - Scraping cases for 18-01-2025
+2025-09-18 11:42:05,032 - INFO - Scraping cases for 19-01-2025
+2025-09-18 11:42:19,056 - INFO - Scraping cases for 20-01-2025
+2025-09-18 11:42:38,528 - INFO - Scraping cases for 21-01-2025
+2025-09-18 11:43:04,564 - INFO - Scraping cases for 22-01-2025
+2025-09-18 11:43:26,527 - INFO - Scraping cases for 23-01-2025
+2025-09-18 11:43:58,473 - INFO - Scraping cases for 24-01-2025
+2025-09-18 11:44:18,087 - INFO - Scraping cases for 25-01-2025
+2025-09-18 11:44:44,110 - INFO - Scraping cases for 26-01-2025
+2025-09-18 11:44:57,983 - INFO - Scraping cases for 27-01-2025
+2025-09-18 11:45:29,678 - INFO - Scraping cases for 28-01-2025
+2025-09-18 11:45:55,682 - INFO - Scraping cases for 29-01-2025
+2025-09-18 11:46:21,664 - INFO - Scraping cases for 30-01-2025
+2025-09-18 11:46:54,007 - INFO - Scraping cases for 31-01-2025
+2025-09-18 11:47:12,900 - INFO - Scraping cases for 01-02-2025
+2025-09-18 11:47:46,850 - INFO - Scraping cases for 02-02-2025
+2025-09-18 11:48:01,104 - INFO - Scraping cases for 03-02-2025
+2025-09-18 11:48:34,781 - INFO - Scraping cases for 04-02-2025
+2025-09-18 11:49:10,855 - INFO - Scraping cases for 05-02-2025
+2025-09-18 11:49:25,085 - INFO - Scraping cases for 06-02-2025
+2025-09-18 11:49:59,137 - INFO - Scraping cases for 07-02-2025
+2025-09-18 11:50:23,840 - INFO - Scraping cases for 08-02-2025
+2025-09-18 11:50:56,524 - INFO - Scraping cases for 09-02-2025
+2025-09-18 11:51:10,389 - INFO - Scraping cases for 10-02-2025
+2025-09-18 11:51:30,726 - INFO - Scraping cases for 11-02-2025
+2025-09-18 11:52:04,518 - INFO - Scraping cases for 12-02-2025
+2025-09-18 11:52:34,461 - INFO - Scraping cases for 13-02-2025
+2025-09-18 11:53:07,502 - INFO - Scraping cases for 14-02-2025
+2025-09-18 11:53:29,520 - INFO - Scraping cases for 15-02-2025
+2025-09-18 11:53:54,732 - INFO - Scraping cases for 16-02-2025
+2025-09-18 11:54:08,659 - INFO - Scraping cases for 17-02-2025
+2025-09-18 11:54:43,702 - INFO - Scraping cases for 18-02-2025
+2025-09-18 11:55:16,794 - INFO - Scraping cases for 19-02-2025
+2025-09-18 11:55:46,142 - INFO - Scraping cases for 20-02-2025
+2025-09-18 11:56:20,095 - INFO - Scraping cases for 21-02-2025
+2025-09-18 11:56:46,209 - INFO - Scraping cases for 22-02-2025
+2025-09-18 11:57:23,107 - INFO - Scraping cases for 23-02-2025
+2025-09-18 11:57:37,047 - INFO - Scraping cases for 24-02-2025
+2025-09-18 11:58:02,993 - INFO - Scraping cases for 25-02-2025
+2025-09-18 11:58:35,154 - INFO - Scraping cases for 26-02-2025
+2025-09-18 11:59:01,236 - INFO - Scraping cases for 27-02-2025
+2025-09-18 11:59:27,255 - INFO - Scraping cases for 28-02-2025
+2025-09-18 11:59:58,300 - INFO - Scraping cases for 01-03-2025
+2025-09-18 12:00:24,309 - INFO - Scraping cases for 02-03-2025
+2025-09-18 12:00:38,214 - INFO - Scraping cases for 03-03-2025
+2025-09-18 12:01:13,162 - INFO - Scraping cases for 04-03-2025
+2025-09-18 12:01:44,885 - INFO - Scraping cases for 05-03-2025
+2025-09-18 12:02:20,549 - INFO - Scraping cases for 06-03-2025
+2025-09-18 12:02:46,509 - INFO - Scraping cases for 07-03-2025
+2025-09-18 12:03:10,054 - INFO - Scraping cases for 08-03-2025
+2025-09-18 12:03:36,057 - INFO - Scraping cases for 09-03-2025
+2025-09-18 12:03:49,953 - INFO - Scraping cases for 10-03-2025
+2025-09-18 12:04:11,275 - INFO - Scraping cases for 11-03-2025
+2025-09-18 12:04:43,662 - INFO - Scraping cases for 12-03-2025
+2025-09-18 12:05:19,804 - INFO - Scraping cases for 13-03-2025
+2025-09-18 12:05:56,860 - INFO - Scraping cases for 14-03-2025
+2025-09-18 12:06:21,473 - INFO - Scraping cases for 15-03-2025
+2025-09-18 12:06:54,947 - INFO - Scraping cases for 16-03-2025
+2025-09-18 12:07:09,076 - INFO - Scraping cases for 17-03-2025
+2025-09-18 12:07:39,923 - INFO - Scraping cases for 18-03-2025
+2025-09-18 12:08:14,434 - INFO - Scraping cases for 19-03-2025
+2025-09-18 12:08:51,125 - INFO - Scraping cases for 20-03-2025
+2025-09-18 12:09:17,060 - INFO - Scraping cases for 21-03-2025
+2025-09-18 12:09:49,749 - INFO - Scraping cases for 22-03-2025
+2025-09-18 12:10:19,986 - INFO - Scraping cases for 23-03-2025
+2025-09-18 12:10:34,187 - INFO - Scraping cases for 24-03-2025
+2025-09-18 12:11:11,443 - INFO - Scraping cases for 25-03-2025
+2025-09-18 12:11:37,730 - INFO - Scraping cases for 26-03-2025
+2025-09-18 12:12:03,682 - INFO - Scraping cases for 27-03-2025
+2025-09-18 12:12:29,677 - INFO - Scraping cases for 28-03-2025
+2025-09-18 12:12:58,924 - INFO - Scraping cases for 29-03-2025
+2025-09-18 12:13:12,847 - INFO - Scraping cases for 30-03-2025
+2025-09-18 12:13:26,768 - INFO - Scraping cases for 31-03-2025
+2025-09-18 12:13:40,672 - INFO - Scraping cases for 01-04-2025
+2025-09-18 12:13:54,557 - INFO - Scraping cases for 02-04-2025
+2025-09-18 12:14:08,423 - INFO - Scraping cases for 03-04-2025
+2025-09-18 12:14:39,742 - INFO - Scraping cases for 04-04-2025
+2025-09-18 12:15:05,935 - INFO - Scraping cases for 05-04-2025
+2025-09-18 12:15:31,882 - INFO - Scraping cases for 06-04-2025
+2025-09-18 12:15:45,738 - INFO - Scraping cases for 07-04-2025
+2025-09-18 12:16:11,662 - INFO - Scraping cases for 08-04-2025
+2025-09-18 12:16:40,386 - INFO - Scraping cases for 09-04-2025
+2025-09-18 12:17:12,690 - INFO - Scraping cases for 10-04-2025
+2025-09-18 12:17:38,726 - INFO - Scraping cases for 11-04-2025
+2025-09-18 12:18:12,757 - INFO - Scraping cases for 12-04-2025
+2025-09-18 12:18:37,455 - INFO - Scraping cases for 13-04-2025
+2025-09-18 12:18:51,623 - INFO - Scraping cases for 14-04-2025
+2025-09-18 12:19:17,554 - INFO - Scraping cases for 15-04-2025
+2025-09-18 12:19:39,849 - INFO - Scraping cases for 16-04-2025
+2025-09-18 12:20:05,831 - INFO - Scraping cases for 17-04-2025
+2025-09-18 12:20:31,822 - INFO - Scraping cases for 18-04-2025
+2025-09-18 12:20:53,961 - INFO - Scraping cases for 19-04-2025
+2025-09-18 12:21:31,528 - INFO - Scraping cases for 20-04-2025
+2025-09-18 12:21:45,434 - INFO - Scraping cases for 21-04-2025
+2025-09-18 12:22:12,495 - INFO - Scraping cases for 22-04-2025
+2025-09-18 12:22:38,449 - INFO - Scraping cases for 23-04-2025
+2025-09-18 12:23:04,522 - INFO - Scraping cases for 24-04-2025
+2025-09-18 12:23:30,500 - INFO - Scraping cases for 25-04-2025
+2025-09-18 12:23:59,349 - INFO - Scraping cases for 26-04-2025
+2025-09-18 12:24:28,843 - INFO - Scraping cases for 27-04-2025
+2025-09-18 12:24:42,732 - INFO - Scraping cases for 28-04-2025
+2025-09-18 12:25:08,687 - INFO - Scraping cases for 29-04-2025
+2025-09-18 12:25:34,612 - INFO - Scraping cases for 30-04-2025
+2025-09-18 12:26:00,574 - INFO - Scraping cases for 01-05-2025
+2025-09-18 12:26:14,463 - INFO - Scraping cases for 02-05-2025
+2025-09-18 12:26:40,481 - INFO - Scraping cases for 03-05-2025
+2025-09-18 12:27:06,505 - INFO - Scraping cases for 04-05-2025
+2025-09-18 12:27:20,631 - INFO - Scraping cases for 05-05-2025
+2025-09-18 12:27:46,587 - INFO - Scraping cases for 06-05-2025
+2025-09-18 12:28:12,560 - INFO - Scraping cases for 07-05-2025
+2025-09-18 12:28:40,033 - INFO - Scraping cases for 08-05-2025
+2025-09-18 12:29:12,428 - INFO - Scraping cases for 09-05-2025
+2025-09-18 12:29:31,852 - INFO - Scraping cases for 10-05-2025
+2025-09-18 12:29:54,704 - INFO - Scraping cases for 11-05-2025
+2025-09-18 12:30:08,608 - INFO - Scraping cases for 12-05-2025
+2025-09-18 12:30:34,584 - INFO - Scraping cases for 13-05-2025
+2025-09-18 12:31:00,536 - INFO - Scraping cases for 14-05-2025
+2025-09-18 12:31:26,496 - INFO - Scraping cases for 15-05-2025
+2025-09-18 12:31:52,444 - INFO - Scraping cases for 16-05-2025
+2025-09-18 12:32:21,121 - INFO - Scraping cases for 17-05-2025
+2025-09-18 12:32:48,829 - INFO - Scraping cases for 18-05-2025
+2025-09-18 12:33:02,761 - INFO - Scraping cases for 19-05-2025
+2025-09-18 12:33:40,487 - INFO - Scraping cases for 20-05-2025
+2025-09-18 12:33:42,498 - INFO - Scraping cases for 21-05-2025
+2025-09-18 12:33:44,507 - INFO - Scraping cases for 22-05-2025
+2025-09-18 12:33:46,516 - INFO - Scraping cases for 23-05-2025
+2025-09-18 12:33:48,520 - INFO - Scraping cases for 24-05-2025
+2025-09-18 12:33:50,524 - INFO - Scraping cases for 25-05-2025
+2025-09-18 12:33:52,532 - INFO - Scraping cases for 26-05-2025
+2025-09-18 12:33:54,541 - INFO - Scraping cases for 27-05-2025
+2025-09-18 12:33:56,551 - INFO - Scraping cases for 28-05-2025
+2025-09-18 12:33:58,564 - INFO - Scraping cases for 29-05-2025
+2025-09-18 12:34:00,579 - INFO - Scraping cases for 30-05-2025
+2025-09-18 12:34:02,585 - INFO - Scraping cases for 31-05-2025
+2025-09-18 12:34:03,350 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ebfff779a7ec7bd5b4a46219818a1695
+2025-09-18 12:34:30,608 - INFO - Starting scraper for 3 dates
+2025-09-18 12:34:30,608 - INFO - Installing/setting up ChromeDriver...
+2025-09-18 12:34:30,608 - INFO - ====== WebDriver manager ======
+2025-09-18 12:34:31,566 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 12:34:31,717 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 12:34:31,845 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-18 12:34:34,106 - INFO - WebDriver initialized successfully
+2025-09-18 12:34:34,106 - INFO - Scraping cases for 16-09-2025
+2025-09-18 12:35:06,151 - INFO - Scraping cases for 17-09-2025
+2025-09-18 12:35:27,055 - INFO - Scraping cases for 18-09-2025
+2025-09-18 12:35:45,521 - INFO - Saved 120 cases to output\ihc_cases_16-09-2025_20250918_123545.json
+2025-09-18 12:35:47,718 - INFO - WebDriver closed

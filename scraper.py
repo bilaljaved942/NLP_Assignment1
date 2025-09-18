@@ -7,19 +7,19 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, timedelta
 import os
 import re
 
-# Configure logging (INFO level for less verbose output)
+# Configure logging (INFO level to reduce terminal output)
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.INFO,  # Changed to INFO to reduce debug noise
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[
-        logging.FileHandler("ihc_scraper.log", encoding='utf-8'),
-        logging.StreamHandler()
+        logging.FileHandler("ihc_scraper.log", encoding='utf-8')
+        # Removed StreamHandler to stop logging to terminal
     ]
 )
 logger = logging.getLogger(__name__)
@@ -43,7 +43,7 @@ def get_date_range(start_date_str):
     date_list = []
     current = start_date
     while current <= end_date:
-        date_list.append(current.strftime("%d-%m-%Y"))  # Changed to %d-%m-%Y format
+        date_list.append(current.strftime("%d-%m-%Y"))  # Format with -
         current += timedelta(days=1)
     return date_list
 
@@ -78,11 +78,9 @@ def extract_case_data(row, row_index, date):
     try:
         cells = row.find_elements(By.TAG_NAME, "td")
         if len(cells) < 5:
-            logger.debug(f"Skipping row {row_index}: Fewer than 5 cells")
             return None
 
         cell_texts = [extract_clean_text(cell) for cell in cells]
-        logger.debug(f"Row {row_index} cells: {cell_texts}")
         
         case_data = {
             "Sr": row_index,
@@ -161,21 +159,20 @@ def extract_case_data(row, row_index, date):
                 case_data["Details"]["Disposal_Information"]["Disposal_Bench"] = bench
 
         if case_data["Case_No"] == "N/A":
-            logger.debug(f"Skipping row {row_index}: No case number found")
             return None
 
-        logger.info(f"Extracted case: {case_data['Case_No']}")
+        print(f"    → Extracted: {case_data['Case_No']}")
         return case_data
 
     except Exception as e:
-        logger.error(f"Error extracting case {row_index}: {e}")
+        print(f"    → Error extracting case {row_index}: {e}")
         return None
 
 def extract_cases_from_page(driver, date, page_num):
     """Extract cases from current page"""
     cases = []
     try:
-        wait = WebDriverWait(driver, 15)  # Increased timeout
+        wait = WebDriverWait(driver, 15)
         table = wait.until(EC.visibility_of_element_located((By.ID, "tblCases")))
         
         # Wait for at least one data row
@@ -183,7 +180,7 @@ def extract_cases_from_page(driver, date, page_num):
         
         # Get data rows from tbody
         rows = table.find_elements(By.XPATH, ".//tbody/tr")
-        logger.info(f"Found {len(rows)} data rows on page {page_num}")
+        print(f"    → Found {len(rows)} rows on page {page_num}")
         
         for i, row in enumerate(rows, 1):
             case_data = extract_case_data(row, i, date)
@@ -192,41 +189,78 @@ def extract_cases_from_page(driver, date, page_num):
         
         return cases
     except TimeoutException:
-        logger.error(f"Timeout waiting for table or data rows on page {page_num}")
+        print(f"    → Timeout waiting for table on page {page_num}")
         return cases
     except Exception as e:
-        logger.error(f"Error extracting cases from page {page_num}: {e}")
+        print(f"    → Error extracting from page {page_num}: {e}")
         return cases
 
-def has_next_page(driver):
-    """Check if next page exists and navigate to it"""
+def get_pagination_info(driver):
+    """Get current pagination information"""
     try:
-        # Wait for pagination to load
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "tblCases_paginate")))
-        logger.debug("Pagination container loaded")
-        
-        next_button = driver.find_element(By.ID, "tblCases_next")
-        classes = next_button.get_attribute('class')
-        logger.debug(f"Next button classes: {classes}")
-        
-        if 'disabled' not in classes:
-            driver.execute_script("arguments[0].scrollIntoView(true);", next_button)
-            time.sleep(0.5)
-            next_button.click()
-            logger.info("Clicked next page button")
-            time.sleep(5)  # Increased wait after click
-            return True
-        else:
-            logger.info("Next button disabled - end of pages")
-            return False
+        info_xpath = "//div[@id='tblCases_info']"
+        info_element = driver.find_element(By.XPATH, info_xpath)
+        info_text = extract_clean_text(info_element)
+        return info_text
     except NoSuchElementException:
-        logger.debug("Next button or pagination not found")
-        return False
-    except TimeoutException:
-        logger.error("Timeout waiting for pagination")
-        return False
+        return None
+
+def has_next_page_simple(driver):
+    """Simplified and correct function to check and click next page button"""
+    try:
+        print("  → Checking for next page...")
+        
+        # Wait for pagination to load
+        wait = WebDriverWait(driver, 5)
+        pagination_div = wait.until(EC.presence_of_element_located((By.ID, "tblCases_paginate")))
+        
+        # Find the Next button - DataTables uses specific structure
+        # Look for: <a class="paginate_button next" ...>Next</a>
+        try:
+            next_button = pagination_div.find_element(By.XPATH, ".//a[contains(@class, 'paginate_button') and contains(@class, 'next')]")
+            
+            # Check if the next button is disabled
+            button_classes = next_button.get_attribute('class')
+            print(f"  → Next button classes: {button_classes}")
+            
+            if 'disabled' in button_classes:
+                print("  → Next button is disabled - reached last page")
+                return False
+            else:
+                print("  → Next button is enabled - clicking...")
+                # Store current page info to verify page change
+                try:
+                    current_info = driver.find_element(By.ID, "tblCases_info").text
+                    print(f"  → Current: {current_info}")
+                except:
+                    current_info = None
+                
+                # Click the next button
+                driver.execute_script("arguments[0].click();", next_button)
+                print("  → Clicked Next button")
+                
+                # Wait for page to change
+                time.sleep(3)
+                
+                # Verify page actually changed
+                try:
+                    new_info = driver.find_element(By.ID, "tblCases_info").text
+                    if new_info != current_info:
+                        print(f"  → Page changed to: {new_info}")
+                        return True
+                    else:
+                        print("  → Page didn't change - might be last page")
+                        return False
+                except:
+                    print("  → Assuming page changed (couldn't verify)")
+                    return True
+                    
+        except NoSuchElementException:
+            print("  → Next button not found - reached last page")
+            return False
+            
     except Exception as e:
-        logger.error(f"Error checking/clicking next page: {e}")
+        print(f"  → Pagination check failed: {e}")
         return False
 
 def scrape_date(driver, date):
@@ -242,45 +276,62 @@ def scrape_date(driver, date):
         # Click advanced search
         adv_btn = wait.until(EC.element_to_be_clickable((By.ID, "lnkAdvncSrch")))
         adv_btn.click()
-        logger.debug("Clicked advanced search button")
-        time.sleep(1)
+        print("  → Clicked advanced search")
+        time.sleep(2)
         
-        # Enter date (replace / with - if needed)
+        # Enter date
         date_input = wait.until(EC.presence_of_element_located((By.ID, "txtDt")))
         date_input.clear()
-        input_date = date.replace('/', '-')  # Ensure - format
+        input_date = date  # Already in DD-MM-YYYY
         date_input.send_keys(input_date)
-        logger.debug(f"Entered date: {input_date}")
-        time.sleep(0.5)
+        print(f"  → Entered date: {input_date}")
+        time.sleep(1)
         
         # Click search
         search_btn = wait.until(EC.element_to_be_clickable((By.ID, "btnAdvnSrch")))
         search_btn.click()
-        logger.debug("Clicked search button")
-        time.sleep(10)  # Increased wait for results to load
+        print("  → Clicked search button")
+        time.sleep(5)  # Wait for results to load
         
         # Wait for results container
         wait.until(EC.visibility_of_element_located((By.ID, "grdCaseInfo")))
-        logger.info("Results container loaded")
+        print("  → Results loaded")
+        
+        # Additional wait for table to fully load
+        wait.until(EC.visibility_of_element_located((By.ID, "tblCases")))
+        time.sleep(3)
+        
+        # Get initial pagination info
+        initial_info = get_pagination_info(driver)
+        print(f"  → {initial_info}")
         
         # Process all pages
         while True:
-            logger.info(f"Processing page {page} for {date}")
+            print(f"  → Processing page {page}")
             page_cases = extract_cases_from_page(driver, date, page)
             all_cases.extend(page_cases)
+            print(f"  → Extracted {len(page_cases)} cases from page {page}")
             
-            if not has_next_page(driver):
+            # Check if there's a next page
+            if not has_next_page_simple(driver):
+                print(f"  → Reached last page for {date}. Total pages: {page}")
                 break
+            
             page += 1
+            
+            # Safety check to prevent infinite loops
+            if page > 50:  # Reasonable upper limit
+                print(f"  → Reached maximum page limit (50) for {date}")
+                break
         
-        logger.info(f"Total cases for {date}: {len(all_cases)}")
+        print(f"Total cases extracted for {date}: {len(all_cases)}")
         return all_cases
         
     except TimeoutException:
-        logger.error(f"Timeout during setup or loading results for {date}")
+        print(f"  → Timeout during setup for {date}")
         return all_cases
     except Exception as e:
-        logger.error(f"Error scraping {date}: {e}")
+        print(f"  → Error scraping {date}: {e}")
         return all_cases
 
 def save_results(all_cases, start_date):
@@ -322,6 +373,9 @@ def main():
             date_cases = scrape_date(driver, date)
             all_cases.extend(date_cases)
             print(f"Cases found for {date}: {len(date_cases)}")
+            
+            # Small delay between dates to be respectful to the server
+            time.sleep(2)
         
         if all_cases:
             filepath = save_results(all_cases, config['start_date'])
