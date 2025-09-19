@@ -1,0 +1,3231 @@
+{
+  "scrape_config": {
+    "mode": "single",
+    "start_date": "01/09/2025",
+    "end_date": "01/09/2025",
+    "max_workers": 1,
+    "batch_size": 1,
+    "total_cases": 41,
+    "optimization_features": [
+      "No popup processing",
+      "Pre-compiled regex patterns",
+      "Reduced wait times",
+      "Bulk text processing",
+      "Optimized WebDriver settings",
+      "Fast table parsing"
+    ]
+  },
+  "Cases": [
+    {
+      "Sr": 1,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3342/2025 Misc. Other (DB) | Ahmed Omer Khan- VS -FBR & others | Honourable Mr. Justice Arbab Muhammad Tahir",
+      "Case_Title": "Ahmed Omer Khan- VS -FBR & others",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "WED 03-09-2025 (FC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "WED 03-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir",
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "WED 03-09-2025 (FC)",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3342/2025 Misc. Other (DB) | Ahmed Omer Khan- VS -FBR & others | Honourable Mr. Justice Arbab Muhammad Tahir",
+          "Case_Title": "Ahmed Omer Khan- VS -FBR & others",
+          "Doc_Type": "N/A",
+          "Parties": "Ahmed Omer Khan- vs -FBR & others",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3342/2025 Misc. Other (DB) | Ahmed Omer Khan- VS -FBR & others | Honourable Mr. Justice Arbab Muhammad Tahir",
+        "Case_Status": "Decided",
+        "Hearing_Date": "WED 03-09-2025 (FC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir",
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Ahmed Omer Khan- VS -FBR & others",
+        "Advocates": {
+          "Petitioner": "Ahmed Omer Khan-",
+          "Respondent": "-FBR & others"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "WED 03-09-2025 (FC)",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir",
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 2,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Misc. 1522/2025 Bail After Arrest (SB) | Sarwar Khan- VS -The State etc. | Honourable Mr. Justice Muhammad Asif | FRI 12-09-2025 (SOC) NOTICE CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Sarwar Khan- VS -The State etc.",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Asif"
+      ],
+      "Hearing_Date": "FRI 12-09-2025 (SOC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "FRI 12-09-2025 (SOC)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "FRI 12-09-2025 (SOC)",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Misc. 1522/2025 Bail After Arrest (SB) | Sarwar Khan- VS -The State etc. | Honourable Mr. Justice Muhammad Asif | FRI 12-09-2025 (SOC) NOTICE CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Sarwar Khan- VS -The State etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Sarwar Khan- vs -The State etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Misc. 1522/2025 Bail After Arrest (SB) | Sarwar Khan- VS -The State etc. | Honourable Mr. Justice Muhammad Asif | FRI 12-09-2025 (SOC) NOTICE CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "FRI 12-09-2025 (SOC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Asif"
+        ],
+        "Case_Title": "Sarwar Khan- VS -The State etc.",
+        "Advocates": {
+          "Petitioner": "Sarwar Khan-",
+          "Respondent": "-The State etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "FRI 12-09-2025 (SOC)",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 3,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3555/2025 Misc. Other (SB) | Wali Khan- VS -Muhammad Maqsood etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 22-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Wali Khan- VS -Muhammad Maqsood etc",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir"
+      ],
+      "Hearing_Date": "MON 22-09-2025 (FC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "MON 22-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3555/2025 Misc. Other (SB) | Wali Khan- VS -Muhammad Maqsood etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 22-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Wali Khan- VS -Muhammad Maqsood etc",
+          "Doc_Type": "N/A",
+          "Parties": "Wali Khan- vs -Muhammad Maqsood etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3555/2025 Misc. Other (SB) | Wali Khan- VS -Muhammad Maqsood etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 22-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "MON 22-09-2025 (FC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir"
+        ],
+        "Case_Title": "Wali Khan- VS -Muhammad Maqsood etc",
+        "Advocates": {
+          "Petitioner": "Wali Khan-",
+          "Respondent": "-Muhammad Maqsood etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 4,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "A 53/2025 (SB) | M/S Tape Town etc- VS -National Tariff Comission etc | Honourable Mr. Justice Khadim Hussain Soomro | MON 20-10-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "M/S Tape Town etc- VS -National Tariff Comission etc",
+      "Bench": [
+        "Honourable Mr. Justice Khadim Hussain Soomro"
+      ],
+      "Hearing_Date": "MON 20-10-2025 (FC)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "MON 20-10-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "A 53/2025 (SB) | M/S Tape Town etc- VS -National Tariff Comission etc | Honourable Mr. Justice Khadim Hussain Soomro | MON 20-10-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "M/S Tape Town etc- VS -National Tariff Comission etc",
+          "Doc_Type": "N/A",
+          "Parties": "M/S Tape Town etc- vs -National Tariff Comission etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "A 53/2025 (SB) | M/S Tape Town etc- VS -National Tariff Comission etc | Honourable Mr. Justice Khadim Hussain Soomro | MON 20-10-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "MON 20-10-2025 (FC)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Khadim Hussain Soomro"
+        ],
+        "Case_Title": "M/S Tape Town etc- VS -National Tariff Comission etc",
+        "Advocates": {
+          "Petitioner": "M/S Tape Town etc-",
+          "Respondent": "-National Tariff Comission etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 5,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "A. 368/2025 Writ (DB) | CBRECHS- VS -Muhammad Anwer Chaudhary etc | The Honourable Chief Justice",
+      "Case_Title": "CBRECHS- VS -Muhammad Anwer Chaudhary etc",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Azam Khan"
+      ],
+      "Hearing_Date": "TUE 07-10-2025 (A)",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 07-10-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "A. 368/2025 Writ (DB) | CBRECHS- VS -Muhammad Anwer Chaudhary etc | The Honourable Chief Justice",
+          "Case_Title": "CBRECHS- VS -Muhammad Anwer Chaudhary etc",
+          "Doc_Type": "N/A",
+          "Parties": "CBRECHS- vs -Muhammad Anwer Chaudhary etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "A. 368/2025 Writ (DB) | CBRECHS- VS -Muhammad Anwer Chaudhary etc | The Honourable Chief Justice",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 07-10-2025 (A)",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Azam Khan"
+        ],
+        "Case_Title": "CBRECHS- VS -Muhammad Anwer Chaudhary etc",
+        "Advocates": {
+          "Petitioner": "CBRECHS-",
+          "Respondent": "-Muhammad Anwer Chaudhary etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 6,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "No. 16221/2025 (SB) | Mst Farzana Chaudhary- VS -ITNE etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Mst Farzana Chaudhary- VS -ITNE etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "No. 16221/2025 (SB) | Mst Farzana Chaudhary- VS -ITNE etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Mst Farzana Chaudhary- VS -ITNE etc",
+          "Doc_Type": "N/A",
+          "Parties": "Mst Farzana Chaudhary- vs -ITNE etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "No. 16221/2025 (SB) | Mst Farzana Chaudhary- VS -ITNE etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Mst Farzana Chaudhary- VS -ITNE etc",
+        "Advocates": {
+          "Petitioner": "Mst Farzana Chaudhary-",
+          "Respondent": "-ITNE etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 7,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3389/2025 Misc. Other (SB) | Zulfiqar Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Zulfiqar Hussain- VS -FOP etc.",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3389/2025 Misc. Other (SB) | Zulfiqar Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Zulfiqar Hussain- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Zulfiqar Hussain- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3389/2025 Misc. Other (SB) | Zulfiqar Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Zulfiqar Hussain- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Zulfiqar Hussain-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 8,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Case 22214/2025 Criminal (SB) | Raja Muhammad Riazal - VS -The State",
+      "Case_Title": "Raja Muhammad Riazal - VS -The State, etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Case 22214/2025 Criminal (SB) | Raja Muhammad Riazal - VS -The State",
+          "Case_Title": "Raja Muhammad Riazal - VS -The State, etc",
+          "Doc_Type": "N/A",
+          "Parties": "Raja Muhammad Riazal - vs -The State, etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Case 22214/2025 Criminal (SB) | Raja Muhammad Riazal - VS -The State",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Raja Muhammad Riazal - VS -The State, etc",
+        "Advocates": {
+          "Petitioner": "Raja Muhammad Riazal -",
+          "Respondent": "-The State, etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 9,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Case 22213/2025 Writ (SB) | Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research | Honourable Mr. Justice Inaam Ameen Minhas | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research",
+      "Bench": [
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "URGENT CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "URGENT CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Case 22213/2025 Writ (SB) | Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research | Honourable Mr. Justice Inaam Ameen Minhas | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research",
+          "Doc_Type": "N/A",
+          "Parties": "Khursid Ahmed Qureshi & others - vs -M/o National Foods Security & Research",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Case 22213/2025 Writ (SB) | Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research | Honourable Mr. Justice Inaam Ameen Minhas | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "URGENT",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Khursid Ahmed Qureshi & others - VS -M/o National Foods Security & Research",
+        "Advocates": {
+          "Petitioner": "Khursid Ahmed Qureshi & others -",
+          "Respondent": "-M/o National Foods Security & Research"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 10,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3388/2025 Misc. Other (SB) | Syed Zabit Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Syed Zabit Hussain- VS -FOP etc.",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3388/2025 Misc. Other (SB) | Syed Zabit Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Syed Zabit Hussain- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Syed Zabit Hussain- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3388/2025 Misc. Other (SB) | Syed Zabit Hussain- VS -FOP etc. | The Honourable Chief Justice | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Syed Zabit Hussain- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Syed Zabit Hussain-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 11,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3418/2025 Police/FIA Matter Other (SB) | Basharat Mahmood etc- VS -FIA etc | Honourable Mr. Justice Khadim Hussain Soomro | FRI 05-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Basharat Mahmood etc- VS -FIA etc",
+      "Bench": [
+        "Honourable Mr. Justice Khadim Hussain Soomro"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "URGENT CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "URGENT CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3418/2025 Police/FIA Matter Other (SB) | Basharat Mahmood etc- VS -FIA etc | Honourable Mr. Justice Khadim Hussain Soomro | FRI 05-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Basharat Mahmood etc- VS -FIA etc",
+          "Doc_Type": "N/A",
+          "Parties": "Basharat Mahmood etc- vs -FIA etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3418/2025 Police/FIA Matter Other (SB) | Basharat Mahmood etc- VS -FIA etc | Honourable Mr. Justice Khadim Hussain Soomro | FRI 05-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "URGENT",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Khadim Hussain Soomro"
+        ],
+        "Case_Title": "Basharat Mahmood etc- VS -FIA etc",
+        "Advocates": {
+          "Petitioner": "Basharat Mahmood etc-",
+          "Respondent": "-FIA etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 12,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3364/2025 Misc. Other (SB) | Mst. Akhtar Bibi- VS -Member Board of Revenue etc | Honourable Mr. Justice Arbab Muhammad Tahir | WED 17-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Mst. Akhtar Bibi- VS -Member Board of Revenue etc",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir"
+      ],
+      "Hearing_Date": "WED 17-09-2025 (FC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "WED 17-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3364/2025 Misc. Other (SB) | Mst. Akhtar Bibi- VS -Member Board of Revenue etc | Honourable Mr. Justice Arbab Muhammad Tahir | WED 17-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Mst. Akhtar Bibi- VS -Member Board of Revenue etc",
+          "Doc_Type": "N/A",
+          "Parties": "Mst. Akhtar Bibi- vs -Member Board of Revenue etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3364/2025 Misc. Other (SB) | Mst. Akhtar Bibi- VS -Member Board of Revenue etc | Honourable Mr. Justice Arbab Muhammad Tahir | WED 17-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "WED 17-09-2025 (FC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir"
+        ],
+        "Case_Title": "Mst. Akhtar Bibi- VS -Member Board of Revenue etc",
+        "Advocates": {
+          "Petitioner": "Mst. Akhtar Bibi-",
+          "Respondent": "-Member Board of Revenue etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 13,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Misc. 1520/2025 Bail After Arrest (DB) | Noor Rehman - VS -The State etc | Honourable Mr. Justice Muhammad Asif",
+      "Case_Title": "Noor Rehman - VS -The State etc",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Asif",
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "WED 17-09-2025 (SOC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "WED 17-09-2025 (SOC)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Asif",
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Misc. 1520/2025 Bail After Arrest (DB) | Noor Rehman - VS -The State etc | Honourable Mr. Justice Muhammad Asif",
+          "Case_Title": "Noor Rehman - VS -The State etc",
+          "Doc_Type": "N/A",
+          "Parties": "Noor Rehman - vs -The State etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Misc. 1520/2025 Bail After Arrest (DB) | Noor Rehman - VS -The State etc | Honourable Mr. Justice Muhammad Asif",
+        "Case_Status": "Pending",
+        "Hearing_Date": "WED 17-09-2025 (SOC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Asif",
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Noor Rehman - VS -The State etc",
+        "Advocates": {
+          "Petitioner": "Noor Rehman -",
+          "Respondent": "-The State etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 14,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3365/2025 Misc. Land Aquisition (SB) | Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc. | Honourable Mr. Justice Inaam Ameen Minhas | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc.",
+      "Bench": [
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "FRI 19-09-2025 (FC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "FRI 19-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3365/2025 Misc. Land Aquisition (SB) | Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc. | Honourable Mr. Justice Inaam Ameen Minhas | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Raja Muhammad Faizan etc. - vs -CDA through its Chairman etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3365/2025 Misc. Land Aquisition (SB) | Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc. | Honourable Mr. Justice Inaam Ameen Minhas | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "FRI 19-09-2025 (FC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Raja Muhammad Faizan etc. - VS -CDA through its Chairman etc.",
+        "Advocates": {
+          "Petitioner": "Raja Muhammad Faizan etc. -",
+          "Respondent": "-CDA through its Chairman etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 15,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "No. 16201/2025 (SB) | Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "No. 16201/2025 (SB) | Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue",
+          "Doc_Type": "N/A",
+          "Parties": "Utility Stores Corporation Pvt Ltd- vs -Chief Commissioner Inland Revenue",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "No. 16201/2025 (SB) | Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Utility Stores Corporation Pvt Ltd- VS -Chief Commissioner Inland Revenue",
+        "Advocates": {
+          "Petitioner": "Utility Stores Corporation Pvt Ltd-",
+          "Respondent": "-Chief Commissioner Inland Revenue"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 16,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3488/2025 Tax & Banking Tax (DB) | Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue | Honourable Mr. Justice Khadim Hussain Soomro",
+      "Case_Title": "Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue",
+      "Bench": [
+        "Honourable Mr. Justice Khadim Hussain Soomro",
+        "Honourable Mr. Justice Muhammad Asif"
+      ],
+      "Hearing_Date": "WED 15-10-2025 (A)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "WED 15-10-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro",
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3488/2025 Tax & Banking Tax (DB) | Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue | Honourable Mr. Justice Khadim Hussain Soomro",
+          "Case_Title": "Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue",
+          "Doc_Type": "N/A",
+          "Parties": "Utility Stores Corporation Pvt Limited- vs -Cheif Commissioner Inland Revenue",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3488/2025 Tax & Banking Tax (DB) | Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue | Honourable Mr. Justice Khadim Hussain Soomro",
+        "Case_Status": "Pending",
+        "Hearing_Date": "WED 15-10-2025 (A)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Khadim Hussain Soomro",
+          "Honourable Mr. Justice Muhammad Asif"
+        ],
+        "Case_Title": "Utility Stores Corporation Pvt Limited- VS -Cheif Commissioner Inland Revenue",
+        "Advocates": {
+          "Petitioner": "Utility Stores Corporation Pvt Limited-",
+          "Respondent": "-Cheif Commissioner Inland Revenue"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 17,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3405/2025 N.I.R.C. (SB) | M/s UBL- VS -NIRC Full Bench etc | Honourable Mr. Justice Muhammad Azam Khan | WED 24-09-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "M/s UBL- VS -NIRC Full Bench etc",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Azam Khan"
+      ],
+      "Hearing_Date": "WED 24-09-2025 (SOC)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "WED 24-09-2025 (SOC)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3405/2025 N.I.R.C. (SB) | M/s UBL- VS -NIRC Full Bench etc | Honourable Mr. Justice Muhammad Azam Khan | WED 24-09-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "M/s UBL- VS -NIRC Full Bench etc",
+          "Doc_Type": "N/A",
+          "Parties": "M/s UBL- vs -NIRC Full Bench etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3405/2025 N.I.R.C. (SB) | M/s UBL- VS -NIRC Full Bench etc | Honourable Mr. Justice Muhammad Azam Khan | WED 24-09-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "WED 24-09-2025 (SOC)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Azam Khan"
+        ],
+        "Case_Title": "M/s UBL- VS -NIRC Full Bench etc",
+        "Advocates": {
+          "Petitioner": "M/s UBL-",
+          "Respondent": "-NIRC Full Bench etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 18,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3321/2025 Misc. Other (SB) | Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc.",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Azam Khan"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3321/2025 Misc. Other (SB) | Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Abdul Hakim Rahimi- vs -FOP through Secretary M/o Interior etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3321/2025 Misc. Other (SB) | Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Azam Khan"
+        ],
+        "Case_Title": "Abdul Hakim Rahimi- VS -FOP through Secretary M/o Interior etc.",
+        "Advocates": {
+          "Petitioner": "Abdul Hakim Rahimi-",
+          "Respondent": "-FOP through Secretary M/o Interior etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 19,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3694/2025 Service Appointment (SB) | Dr. Arshad Ali Khan etc- VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | FRI 19-09-2025 URGENT CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Dr. Arshad Ali Khan etc- VS -FOP etc.",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Asif"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "URGENT CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "URGENT CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3694/2025 Service Appointment (SB) | Dr. Arshad Ali Khan etc- VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | FRI 19-09-2025 URGENT CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Dr. Arshad Ali Khan etc- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Dr. Arshad Ali Khan etc- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3694/2025 Service Appointment (SB) | Dr. Arshad Ali Khan etc- VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | FRI 19-09-2025 URGENT CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "URGENT",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Asif"
+        ],
+        "Case_Title": "Dr. Arshad Ali Khan etc- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Dr. Arshad Ali Khan etc-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 20,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3493/2025 Service Regularization (SB) | Samina Yasmeen etc- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 25-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Samina Yasmeen etc- VS -FOP etc.",
+      "Bench": [
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "THU 25-09-2025 (FC)",
+      "Case_Category": "REGULAR CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "THU 25-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "REGULAR CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3493/2025 Service Regularization (SB) | Samina Yasmeen etc- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 25-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Samina Yasmeen etc- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Samina Yasmeen etc- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3493/2025 Service Regularization (SB) | Samina Yasmeen etc- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 25-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "THU 25-09-2025 (FC)",
+        "Case_Stage": "REGULAR",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Samina Yasmeen etc- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Samina Yasmeen etc-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 21,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "O. 8/2025 Winding Up Petition (SB) | SECP- VS -M/s Seedcred Financial Services Limited | Honourable Mr. Justice Mohsin Akhtar Kayani | TUE 11-11-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "SECP- VS -M/s Seedcred Financial Services Limited",
+      "Bench": [
+        "Honourable Mr. Justice Mohsin Akhtar Kayani"
+      ],
+      "Hearing_Date": "TUE 11-11-2025 (FC)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 11-11-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Mohsin Akhtar Kayani"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "O. 8/2025 Winding Up Petition (SB) | SECP- VS -M/s Seedcred Financial Services Limited | Honourable Mr. Justice Mohsin Akhtar Kayani | TUE 11-11-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "SECP- VS -M/s Seedcred Financial Services Limited",
+          "Doc_Type": "N/A",
+          "Parties": "SECP- vs -M/s Seedcred Financial Services Limited",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "O. 8/2025 Winding Up Petition (SB) | SECP- VS -M/s Seedcred Financial Services Limited | Honourable Mr. Justice Mohsin Akhtar Kayani | TUE 11-11-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 11-11-2025 (FC)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Mohsin Akhtar Kayani"
+        ],
+        "Case_Title": "SECP- VS -M/s Seedcred Financial Services Limited",
+        "Advocates": {
+          "Petitioner": "SECP-",
+          "Respondent": "-M/s Seedcred Financial Services Limited"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 22,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3439/2025 Misc. Other (SB) | Zain Ateeq- VS -FOP etc. | The Honourable Chief Justice | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Zain Ateeq- VS -FOP etc.",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3439/2025 Misc. Other (SB) | Zain Ateeq- VS -FOP etc. | The Honourable Chief Justice | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Zain Ateeq- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Zain Ateeq- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3439/2025 Misc. Other (SB) | Zain Ateeq- VS -FOP etc. | The Honourable Chief Justice | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Zain Ateeq- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Zain Ateeq-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 23,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "No. 16190/2025 (SB) | Muhammad Amin Zia etc- VS -State etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Muhammad Amin Zia etc- VS -State etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "No. 16190/2025 (SB) | Muhammad Amin Zia etc- VS -State etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Muhammad Amin Zia etc- VS -State etc",
+          "Doc_Type": "N/A",
+          "Parties": "Muhammad Amin Zia etc- vs -State etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "No. 16190/2025 (SB) | Muhammad Amin Zia etc- VS -State etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Muhammad Amin Zia etc- VS -State etc",
+        "Advocates": {
+          "Petitioner": "Muhammad Amin Zia etc-",
+          "Respondent": "-State etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 24,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3449/2025 Misc. Other (SB) | Mst. Ulfat - VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | TUE 07-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Mst. Ulfat - VS -FOP etc.",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Asif"
+      ],
+      "Hearing_Date": "TUE 07-10-2025 (A)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 07-10-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3449/2025 Misc. Other (SB) | Mst. Ulfat - VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | TUE 07-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Mst. Ulfat - VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Mst. Ulfat - vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3449/2025 Misc. Other (SB) | Mst. Ulfat - VS -FOP etc. | Honourable Mr. Justice Muhammad Asif | TUE 07-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 07-10-2025 (A)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Asif"
+        ],
+        "Case_Title": "Mst. Ulfat - VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Mst. Ulfat -",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 25,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3368/2025 Misc. Other (SB) | M/s Mehran Arms Company- VS -State Bank of Pakistan etc. | Honourable Ms. Justice Saman Rafat Imtiaz | THU 16-10-2025 (FC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "M/s Mehran Arms Company- VS -State Bank of Pakistan etc.",
+      "Bench": [
+        "Honourable Mr. Justice Saman Rafat Imtiaz"
+      ],
+      "Hearing_Date": "THU 16-10-2025 (FC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "THU 16-10-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3368/2025 Misc. Other (SB) | M/s Mehran Arms Company- VS -State Bank of Pakistan etc. | Honourable Ms. Justice Saman Rafat Imtiaz | THU 16-10-2025 (FC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "M/s Mehran Arms Company- VS -State Bank of Pakistan etc.",
+          "Doc_Type": "N/A",
+          "Parties": "M/s Mehran Arms Company- vs -State Bank of Pakistan etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3368/2025 Misc. Other (SB) | M/s Mehran Arms Company- VS -State Bank of Pakistan etc. | Honourable Ms. Justice Saman Rafat Imtiaz | THU 16-10-2025 (FC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "THU 16-10-2025 (FC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Saman Rafat Imtiaz"
+        ],
+        "Case_Title": "M/s Mehran Arms Company- VS -State Bank of Pakistan etc.",
+        "Advocates": {
+          "Petitioner": "M/s Mehran Arms Company-",
+          "Respondent": "-State Bank of Pakistan etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 26,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3604/2025 Misc. Other (SB) | Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan | Honourable Ms. Justice Saman Rafat Imtiaz | TUE 23-09-2025 (SOC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan",
+      "Bench": [
+        "Honourable Mr. Justice Saman Rafat Imtiaz"
+      ],
+      "Hearing_Date": "TUE 23-09-2025 (SOC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 23-09-2025 (SOC)",
+          "Bench": [
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3604/2025 Misc. Other (SB) | Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan | Honourable Ms. Justice Saman Rafat Imtiaz | TUE 23-09-2025 (SOC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan",
+          "Doc_Type": "N/A",
+          "Parties": "Bank Alfalah Limited- vs -The President Islamic Republic of Pakistan",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3604/2025 Misc. Other (SB) | Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan | Honourable Ms. Justice Saman Rafat Imtiaz | TUE 23-09-2025 (SOC) MOTION CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 23-09-2025 (SOC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Saman Rafat Imtiaz"
+        ],
+        "Case_Title": "Bank Alfalah Limited- VS -The President Islamic Republic of Pakistan",
+        "Advocates": {
+          "Petitioner": "Bank Alfalah Limited-",
+          "Respondent": "-The President Islamic Republic of Pakistan"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 27,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3400/2025 Allotment Allot. of Quarter (SB) | Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc | Honourable Mr. Justice Khadim Hussain Soomro | THU 25-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc",
+      "Bench": [
+        "Honourable Mr. Justice Khadim Hussain Soomro"
+      ],
+      "Hearing_Date": "THU 25-09-2025 (FC)",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "THU 25-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3400/2025 Allotment Allot. of Quarter (SB) | Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc | Honourable Mr. Justice Khadim Hussain Soomro | THU 25-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc",
+          "Doc_Type": "N/A",
+          "Parties": "Syed Anis Bokhari- vs -FOP through Ministry of Housing and Works Islamabad etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3400/2025 Allotment Allot. of Quarter (SB) | Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc | Honourable Mr. Justice Khadim Hussain Soomro | THU 25-09-2025 (FC) CANCELLED - BENCH NOT AVAILABLE | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "THU 25-09-2025 (FC)",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Khadim Hussain Soomro"
+        ],
+        "Case_Title": "Syed Anis Bokhari- VS -FOP through Ministry of Housing and Works Islamabad etc",
+        "Advocates": {
+          "Petitioner": "Syed Anis Bokhari-",
+          "Respondent": "-FOP through Ministry of Housing and Works Islamabad etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 28,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Org. 227/2025 Writ (SB) | M/s Eagle Cable- VS -Fop",
+      "Case_Title": "M/s Eagle Cable- VS -Fop, etc",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "URGENT CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "URGENT CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Org. 227/2025 Writ (SB) | M/s Eagle Cable- VS -Fop",
+          "Case_Title": "M/s Eagle Cable- VS -Fop, etc",
+          "Doc_Type": "N/A",
+          "Parties": "M/s Eagle Cable- vs -Fop, etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Org. 227/2025 Writ (SB) | M/s Eagle Cable- VS -Fop",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "URGENT",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir"
+        ],
+        "Case_Title": "M/s Eagle Cable- VS -Fop, etc",
+        "Advocates": {
+          "Petitioner": "M/s Eagle Cable-",
+          "Respondent": "-Fop, etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 29,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "No. 16182/2025 Objection (SB) | M/s Cresent Textile Mills Limited- VS -SECP etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "M/s Cresent Textile Mills Limited- VS -SECP etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "No. 16182/2025 Objection (SB) | M/s Cresent Textile Mills Limited- VS -SECP etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "M/s Cresent Textile Mills Limited- VS -SECP etc",
+          "Doc_Type": "N/A",
+          "Parties": "M/s Cresent Textile Mills Limited- vs -SECP etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "No. 16182/2025 Objection (SB) | M/s Cresent Textile Mills Limited- VS -SECP etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "M/s Cresent Textile Mills Limited- VS -SECP etc",
+        "Advocates": {
+          "Petitioner": "M/s Cresent Textile Mills Limited-",
+          "Respondent": "-SECP etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 30,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Org. 219/2025 Writ (SB) | Muhammad Israr- VS -Muhammad Zafar Iqbal | The Honourable Chief Justice | THU 09-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Muhammad Israr- VS -Muhammad Zafar Iqbal",
+      "Bench": [],
+      "Hearing_Date": "THU 09-10-2025 (A)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "THU 09-10-2025 (A)",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Org. 219/2025 Writ (SB) | Muhammad Israr- VS -Muhammad Zafar Iqbal | The Honourable Chief Justice | THU 09-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Muhammad Israr- VS -Muhammad Zafar Iqbal",
+          "Doc_Type": "N/A",
+          "Parties": "Muhammad Israr- vs -Muhammad Zafar Iqbal",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Org. 219/2025 Writ (SB) | Muhammad Israr- VS -Muhammad Zafar Iqbal | The Honourable Chief Justice | THU 09-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "THU 09-10-2025 (A)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Muhammad Israr- VS -Muhammad Zafar Iqbal",
+        "Advocates": {
+          "Petitioner": "Muhammad Israr-",
+          "Respondent": "-Muhammad Zafar Iqbal"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 31,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3379/2025 Misc. Other (DB) | Haider Waheed- VS -FBR etc | Honourable Mr. Justice Khadim Hussain Soomro",
+      "Case_Title": "Haider Waheed- VS -FBR etc",
+      "Bench": [
+        "Honourable Mr. Justice Khadim Hussain Soomro",
+        "Honourable Mr. Justice Muhammad Asif"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro",
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3379/2025 Misc. Other (DB) | Haider Waheed- VS -FBR etc | Honourable Mr. Justice Khadim Hussain Soomro",
+          "Case_Title": "Haider Waheed- VS -FBR etc",
+          "Doc_Type": "N/A",
+          "Parties": "Haider Waheed- vs -FBR etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3379/2025 Misc. Other (DB) | Haider Waheed- VS -FBR etc | Honourable Mr. Justice Khadim Hussain Soomro",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Khadim Hussain Soomro",
+          "Honourable Mr. Justice Muhammad Asif"
+        ],
+        "Case_Title": "Haider Waheed- VS -FBR etc",
+        "Advocates": {
+          "Petitioner": "Haider Waheed-",
+          "Respondent": "-FBR etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Khadim Hussain Soomro",
+            "Honourable Mr. Justice Muhammad Asif"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 32,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3390/2025 Police/FIA Matter Harrasment (SB) | Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc.",
+      "Bench": [
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "URGENT CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "URGENT CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3390/2025 Police/FIA Matter Harrasment (SB) | Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Mumtaz Khan etc- vs -FOP through Secretary Ministry of SAFRON etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3390/2025 Police/FIA Matter Harrasment (SB) | Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc. | Honourable Mr. Justice Inaam Ameen Minhas | THU 04-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "URGENT",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Mumtaz Khan etc- VS -FOP through Secretary Ministry of SAFRON etc.",
+        "Advocates": {
+          "Petitioner": "Mumtaz Khan etc-",
+          "Respondent": "-FOP through Secretary Ministry of SAFRON etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 33,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Misc. 1517/2025 Bail After Arrest (DB) | Muhammad Ibrahim- VS -The State etc. | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+      "Case_Title": "Muhammad Ibrahim- VS -The State etc.",
+      "Bench": [
+        "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "Honourable Mr. Justice Saman Rafat Imtiaz"
+      ],
+      "Hearing_Date": "TUE 16-09-2025 (A)",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 16-09-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "TUE 16-09-2025 (A)",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Misc. 1517/2025 Bail After Arrest (DB) | Muhammad Ibrahim- VS -The State etc. | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+          "Case_Title": "Muhammad Ibrahim- VS -The State etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Muhammad Ibrahim- vs -The State etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Misc. 1517/2025 Bail After Arrest (DB) | Muhammad Ibrahim- VS -The State etc. | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "Case_Status": "Decided",
+        "Hearing_Date": "TUE 16-09-2025 (A)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+          "Honourable Mr. Justice Saman Rafat Imtiaz"
+        ],
+        "Case_Title": "Muhammad Ibrahim- VS -The State etc.",
+        "Advocates": {
+          "Petitioner": "Muhammad Ibrahim-",
+          "Respondent": "-The State etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "TUE 16-09-2025 (A)",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 34,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3318/2025 Misc. Other (SB) | Muhammad Eisa - VS -FOP etc. | The Honourable Chief Justice | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Muhammad Eisa - VS -FOP etc.",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3318/2025 Misc. Other (SB) | Muhammad Eisa - VS -FOP etc. | The Honourable Chief Justice | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Muhammad Eisa - VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Muhammad Eisa - vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3318/2025 Misc. Other (SB) | Muhammad Eisa - VS -FOP etc. | The Honourable Chief Justice | TUE 02-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Muhammad Eisa - VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Muhammad Eisa -",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 35,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3471/2025 Misc. Other (SB) | Salman Mahmood etc- VS -FGEHA etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Salman Mahmood etc- VS -FGEHA etc",
+      "Bench": [
+        "Honourable Mr. Justice Arbab Muhammad Tahir"
+      ],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "01-09-2025",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3471/2025 Misc. Other (SB) | Salman Mahmood etc- VS -FGEHA etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Salman Mahmood etc- VS -FGEHA etc",
+          "Doc_Type": "N/A",
+          "Parties": "Salman Mahmood etc- vs -FGEHA etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3471/2025 Misc. Other (SB) | Salman Mahmood etc- VS -FGEHA etc | Honourable Mr. Justice Arbab Muhammad Tahir | MON 08-09-2025 URGENT CASES | Decided | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Decided",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Arbab Muhammad Tahir"
+        ],
+        "Case_Title": "Salman Mahmood etc- VS -FGEHA etc",
+        "Advocates": {
+          "Petitioner": "Salman Mahmood etc-",
+          "Respondent": "-FGEHA etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "01-09-2025",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Arbab Muhammad Tahir"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 36,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3337/2025 Misc. Other (SB) | Mst. Mehmoona Khan- VS -FOP etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 14-10-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Mst. Mehmoona Khan- VS -FOP etc.",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Azam Khan"
+      ],
+      "Hearing_Date": "TUE 14-10-2025 (SOC)",
+      "Case_Category": "MISC CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 14-10-2025 (SOC)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3337/2025 Misc. Other (SB) | Mst. Mehmoona Khan- VS -FOP etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 14-10-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Mst. Mehmoona Khan- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Mst. Mehmoona Khan- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3337/2025 Misc. Other (SB) | Mst. Mehmoona Khan- VS -FOP etc. | Honourable Mr. Justice Muhammad Azam Khan | TUE 14-10-2025 (SOC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 14-10-2025 (SOC)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Azam Khan"
+        ],
+        "Case_Title": "Mst. Mehmoona Khan- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Mst. Mehmoona Khan-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 37,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "Crl. Misc. 1516/2025 Bail After Arrest (DB) | Muhammad Ishaq- VS -The State etc | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+      "Case_Title": "Muhammad Ishaq- VS -The State etc",
+      "Bench": [
+        "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "Honourable Mr. Justice Saman Rafat Imtiaz"
+      ],
+      "Hearing_Date": "TUE 16-09-2025 (A)",
+      "Case_Category": "MISC CASES",
+      "Status": "Decided",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 16-09-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "MISC CASES",
+          "Short_Order": "Decided",
+          "Disposal_Date": "TUE 16-09-2025 (A)",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "Crl. Misc. 1516/2025 Bail After Arrest (DB) | Muhammad Ishaq- VS -The State etc | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+          "Case_Title": "Muhammad Ishaq- VS -The State etc",
+          "Doc_Type": "N/A",
+          "Parties": "Muhammad Ishaq- vs -The State etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "Crl. Misc. 1516/2025 Bail After Arrest (DB) | Muhammad Ishaq- VS -The State etc | Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "Case_Status": "Decided",
+        "Hearing_Date": "TUE 16-09-2025 (A)",
+        "Case_Stage": "MISC",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+          "Honourable Mr. Justice Saman Rafat Imtiaz"
+        ],
+        "Case_Title": "Muhammad Ishaq- VS -The State etc",
+        "Advocates": {
+          "Petitioner": "Muhammad Ishaq-",
+          "Respondent": "-The State etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "Decided (Disposed Of)",
+          "Case_Disposal_Date": "TUE 16-09-2025 (A)",
+          "Disposal_Bench": [
+            "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+            "Honourable Mr. Justice Saman Rafat Imtiaz"
+          ],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 38,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "No. 16164/2025 Objection (SB) | Nouman Waris - VS -Learned Judicial Magistrate etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Nouman Waris - VS -Learned Judicial Magistrate etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "No. 16164/2025 Objection (SB) | Nouman Waris - VS -Learned Judicial Magistrate etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Nouman Waris - VS -Learned Judicial Magistrate etc",
+          "Doc_Type": "N/A",
+          "Parties": "Nouman Waris - vs -Learned Judicial Magistrate etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "No. 16164/2025 Objection (SB) | Nouman Waris - VS -Learned Judicial Magistrate etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Nouman Waris - VS -Learned Judicial Magistrate etc",
+        "Advocates": {
+          "Petitioner": "Nouman Waris -",
+          "Respondent": "-Learned Judicial Magistrate etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 39,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3340/2025 Service Appointment (SB) | Hamza Nazir- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | TUE 28-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Hamza Nazir- VS -FOP etc.",
+      "Bench": [
+        "Honourable Mr. Justice Inaam Ameen Minhas"
+      ],
+      "Hearing_Date": "TUE 28-10-2025 (A)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "TUE 28-10-2025 (A)",
+          "Bench": [
+            "Honourable Mr. Justice Inaam Ameen Minhas"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3340/2025 Service Appointment (SB) | Hamza Nazir- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | TUE 28-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Hamza Nazir- VS -FOP etc.",
+          "Doc_Type": "N/A",
+          "Parties": "Hamza Nazir- vs -FOP etc.",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3340/2025 Service Appointment (SB) | Hamza Nazir- VS -FOP etc. | Honourable Mr. Justice Inaam Ameen Minhas | TUE 28-10-2025 (A) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "TUE 28-10-2025 (A)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Inaam Ameen Minhas"
+        ],
+        "Case_Title": "Hamza Nazir- VS -FOP etc.",
+        "Advocates": {
+          "Petitioner": "Hamza Nazir-",
+          "Respondent": "-FOP etc."
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 40,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "R. 279/2025 (DB) | Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc",
+      "Bench": [],
+      "Hearing_Date": "01-09-2025",
+      "Case_Category": "N/A",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "01-09-2025",
+          "Bench": [],
+          "List_Type": "N/A",
+          "Case_Stage": "N/A",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "R. 279/2025 (DB) | Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc",
+          "Doc_Type": "N/A",
+          "Parties": "Commissioner Inland Revenue- vs -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "R. 279/2025 (DB) | Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc | N/A | N/A | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "01-09-2025",
+        "Case_Stage": "N/A",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [],
+        "Case_Title": "Commissioner Inland Revenue- VS -M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc",
+        "Advocates": {
+          "Petitioner": "Commissioner Inland Revenue-",
+          "Respondent": "-M/s Rohde and Schwarz Pakistan (Pvt) Ltd etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    },
+    {
+      "Sr": 41,
+      "Institution_Date": "01-09-2025",
+      "Case_No": "W.P. 3447/2025 Rent Matter (SB) | I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc | Honourable Mr. Justice Muhammad Azam Khan | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+      "Case_Title": "I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc",
+      "Bench": [
+        "Honourable Mr. Justice Muhammad Azam Khan"
+      ],
+      "Hearing_Date": "FRI 19-09-2025 (FC)",
+      "Case_Category": "NOTICE CASES",
+      "Status": "Pending",
+      "Orders": [
+        {
+          "Sr": 1,
+          "Hearing_Date": "FRI 19-09-2025 (FC)",
+          "Bench": [
+            "Honourable Mr. Justice Muhammad Azam Khan"
+          ],
+          "List_Type": "N/A",
+          "Case_Stage": "NOTICE CASES",
+          "Short_Order": "Pending",
+          "Disposal_Date": "N/A",
+          "Order_File": "N/A"
+        }
+      ],
+      "Comments": [
+        {
+          "Compliance_Date": "N/A",
+          "Case_No": "W.P. 3447/2025 Rent Matter (SB) | I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc | Honourable Mr. Justice Muhammad Azam Khan | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+          "Case_Title": "I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc",
+          "Doc_Type": "N/A",
+          "Parties": "I-Active (Pvt) Ltd- vs -M/s Saifco Developers etc",
+          "Description": "No comments available",
+          "View_File": "N/A"
+        }
+      ],
+      "CMs": [
+        {
+          "Sr": 1,
+          "CM": "N/A",
+          "Institution_Date": "N/A",
+          "Disposal_Date": "N/A",
+          "Order_Passed": "N/A",
+          "Description": "No CMs available",
+          "Status": "N/A"
+        }
+      ],
+      "Details": {
+        "Case_No": "W.P. 3447/2025 Rent Matter (SB) | I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc | Honourable Mr. Justice Muhammad Azam Khan | FRI 19-09-2025 (FC) NOTICE CASES | Pending | Orders Comments Case CMs Judgement | N/A",
+        "Case_Status": "Pending",
+        "Hearing_Date": "FRI 19-09-2025 (FC)",
+        "Case_Stage": "NOTICE",
+        "Tentative_Date": "N/A",
+        "Short_Order": "N/A",
+        "Before_Bench": [
+          "Honourable Mr. Justice Muhammad Azam Khan"
+        ],
+        "Case_Title": "I-Active (Pvt) Ltd- VS -M/s Saifco Developers etc",
+        "Advocates": {
+          "Petitioner": "I-Active (Pvt) Ltd-",
+          "Respondent": "-M/s Saifco Developers etc"
+        },
+        "Case_Description": "N/A",
+        "Disposal_Information": {
+          "Disposed_Status": "N/A",
+          "Case_Disposal_Date": "N/A",
+          "Disposal_Bench": [],
+          "Consigned_Date": "N/A"
+        },
+        "FIR_Information": {
+          "FIR_No": "N/A",
+          "FIR_Date": "N/A",
+          "Police_Station": "N/A",
+          "Under_Section": "N/A",
+          "Incident": "N/A",
+          "Accused": "N/A"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+2025-09-19 12:25:19,161 - INFO - ====== WebDriver manager ======
+2025-09-19 12:25:20,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:25:20,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:25:21,144 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver.exe] found in cache
+2025-09-19 12:25:22,468 - INFO - Thread 0: Starting FAST scrape for 01-09-2025
+2025-09-19 12:27:24,868 - INFO - Thread 0: Completed 01-09-2025 - 20 cases
+2025-09-19 12:27:27,235 - INFO - Saved 20 cases to output\ihc_cases_fixed_single_01-09-2025_20250919_122727.json
+2025-09-19 12:30:37,149 - INFO - ====== WebDriver manager ======
+2025-09-19 12:30:37,150 - INFO - ====== WebDriver manager ======
+2025-09-19 12:30:37,152 - INFO - ====== WebDriver manager ======
+2025-09-19 12:30:37,153 - INFO - ====== WebDriver manager ======
+2025-09-19 12:30:39,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,205 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,213 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,377 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,481 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-19 12:30:39,636 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver.exe] found in cache
+2025-09-19 12:30:39,692 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver.exe] found in cache
+2025-09-19 12:30:39,785 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver.exe] found in cache
+2025-09-19 12:30:39,799 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver.exe] found in cache
+2025-09-19 12:30:41,384 - INFO - Thread 1: Starting FAST scrape for 17-09-2025
+2025-09-19 12:30:41,544 - INFO - Thread 2: Starting FAST scrape for 18-09-2025
+2025-09-19 12:30:41,685 - INFO - Thread 0: Starting FAST scrape for 16-09-2025
+2025-09-19 12:30:41,799 - INFO - Thread 3: Starting FAST scrape for 19-09-2025
+2025-09-19 12:32:42,941 - INFO - Thread 3: Completed 19-09-2025 - 20 cases
+2025-09-19 12:33:57,284 - INFO - Thread 1: Completed 17-09-2025 - 34 cases
+2025-09-19 12:34:24,637 - INFO - Thread 2: Completed 18-09-2025 - 39 cases
+2025-09-19 12:35:57,353 - INFO - Thread 0: Completed 16-09-2025 - 55 cases
+2025-09-19 12:35:59,719 - INFO - Saved 148 cases to output\ihc_cases_fixed_range_16-09-2025_20250919_123559.json
